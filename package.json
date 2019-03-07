@@ -1,0 +1,13 @@
+{
+  "name": "node-forms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/osvaldokalvaitir/node-forms.git",
+  "author": "osvaldokalvaitir <osvaldokalvaitir@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1"
+  }
+}
