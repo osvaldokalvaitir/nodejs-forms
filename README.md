@@ -1,6 +1,6 @@
 # Node - Forms
 
-Aplicação usando Node.js, Express, Cors e Morgan.
+Aplicação usando Node.js, Express, CORS e Morgan.
 
 ## Índice
 
@@ -36,7 +36,7 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 ### Bibliotecas
 
-- [Cors](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/cors.md)
+- [CORS](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/cors.md)
 
 - [Express](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/express.md)
 
