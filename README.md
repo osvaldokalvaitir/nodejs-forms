@@ -54,4 +54,4 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 ### APIs
 
-- Este projeto tem como objetivo realizar os logs das requisições, portanto, não contém nenhuma rota.
+Este projeto tem como objetivo realizar os logs das requisições, portanto, não contém nenhuma rota.
