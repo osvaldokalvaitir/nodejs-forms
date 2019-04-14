@@ -14,8 +14,6 @@ Aplicação usando Node.js, Express, CORS e Morgan.
 
 ## Índice
 
-- [Rotas](#rotas)
-
 - [Desenvolvimento](#desenvolvimento)
 
   - [Configurações Iniciais](#configurações-iniciais)
@@ -24,11 +22,11 @@ Aplicação usando Node.js, Express, CORS e Morgan.
 
   - [Execução do Projeto](#execução-do-projeto)
 
+- [Utilizados no Projeto](#utilizados-no-projeto)
+
   - [Bibliotecas](#bibliotecas)
 
-## Rotas
-
-Este projeto tem como objetivo realizar os logs das requisições, portanto, não contém nenhuma rota.
+  - [APIs](#apis)
 
 ## Desenvolvimento
 
@@ -44,6 +42,8 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga a Execução de Projeto.
 
+## Utilizados no Projeto
+
 ### Bibliotecas
 
 - [CORS](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/cors.md)
@@ -51,3 +51,7 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 - [Express](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/express.md)
 
 - [morgan](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/morgan.md)
+
+### APIs
+
+- Este projeto tem como objetivo realizar os logs das requisições, portanto, não contém nenhuma rota.
