@@ -1,8 +1,8 @@
 {
-  "name": "node-forms",
+  "name": "nodejs-forms",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/osvaldokalvaitir/node-forms.git",
+  "repository": "https://github.com/osvaldokalvaitir/nodejs-forms.git",
   "author": "osvaldokalvaitir <osvaldokalvaitir@outlook.com>",
   "license": "MIT",
   "scripts": {
